@@ -46,6 +46,8 @@ public class GuessingGameApp {
 				break;
 			}
 		}
+		myScanner.close();
 	}
+	
 
 }
